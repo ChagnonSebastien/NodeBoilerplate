@@ -1,5 +1,5 @@
-import cors from 'cors';
 import express from 'express';
+import cors from 'cors';
 import { SampleRoute } from './routes/SampleRoute';
 import { json } from 'body-parser';
 
